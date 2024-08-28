@@ -1,1 +1,1 @@
-# Computer_system_architectures_and_computer_networks___Lab_1
+# Архитектуры вычислительных систем и компьютерные сети | Лабораторная работа 1
